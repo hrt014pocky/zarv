@@ -1,0 +1,67 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Apr 28 07:44:53 2022
+[*]
+[dumpfile] "E:\00project\szang\zarv\sim\tb.vcd"
+[dumpfile_mtime] "Thu Apr 28 07:40:04 2022"
+[dumpfile_size] 3520045
+[savefile] "E:\00project\szang\zarv\sim\zarv.gtkw"
+[timestart] 5661900
+[size] 1707 897
+[pos] -1 -1
+*-14.522351 5686200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.u_top.
+[treeopen] tb.u_top.u_core.
+[sst_width] 197
+[signals_width] 252
+[sst_expanded] 1
+[sst_vpaned_height] 257
+@22
+tb.u_top.u_core.pc_addr_o[31:0]
+tb.u_top.u_core.pc_data_i[31:0]
+tb.u_top.u_core.u_id.inst_addr_o[31:0]
+tb.u_top.u_core.u_id.inst_o[31:0]
+tb.u_top.u_core.u_ex.inst_addr_i[31:0]
+tb.u_top.u_core.u_ex.inst_i[31:0]
+@28
+tb.u_top.u_core.u_pc.hold_flag_i[2:0]
+tb.u_top.u_core.u_ex.opcode[6:0]
+tb.u_top.u_core.u_ex.funct3[2:0]
+@22
+tb.u_top.u_core.u_ex.rs1_addr[4:0]
+tb.u_top.u_core.u_ex.rs1_data_i[31:0]
+tb.u_top.u_core.u_ex.rs2_addr[4:0]
+tb.u_top.u_core.u_ex.rs2_data_i[31:0]
+tb.u_top.u_core.u_ex.rd_addr[4:0]
+tb.u_top.u_core.u_ex.rd_data_o[31:0]
+tb.u_top.u_core.u_ex.csr_addr[11:0]
+tb.u_top.u_core.u_ex.csr_data_i[31:0]
+tb.u_top.u_core.u_ex.csr_waddr_o[11:0]
+tb.u_top.u_core.u_ex.csr_wdata_o[31:0]
+@28
+tb.u_top.u_core.u_ex.csr_we_o
+@22
+tb.u_top.u_timer.count[31:0]
+tb.u_top.u_timer.ctrl[31:0]
+tb.u_top.u_timer.value[31:0]
+@28
+tb.u_top.u_timer.int
+@22
+tb.u_top.u_core.u_intc.int_state[3:0]
+tb.u_top.u_core.u_intc.csr_state[4:0]
+tb.u_top.u_core.u_csr_regs.mcause[31:0]
+tb.u_top.u_core.u_csr_regs.mepc[31:0]
+tb.u_top.u_core.u_csr_regs.mie[31:0]
+tb.u_top.u_core.u_csr_regs.mscratch[31:0]
+tb.u_top.u_core.u_csr_regs.mstatus[31:0]
+tb.u_top.u_core.u_csr_regs.mtvec[31:0]
+@28
+tb.u_top.u_core.u_intc.int_assert_o
+@22
+tb.u_top.u_core.u_regs.x13[31:0]
+tb.u_top.u_core.u_regs.x14[31:0]
+tb.u_top.u_core.u_regs.x15[31:0]
+tb.u_top.u_core.u_regs.x16[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
